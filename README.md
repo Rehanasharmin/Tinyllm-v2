@@ -121,10 +121,6 @@ Training configuration:
 
 MIT License
 
-## Author
-
-Matrix Agent
-
 ## Acknowledgments
 
 Demonstrates that coherent dialogue is achievable with minimal parameters through careful architecture design and training optimization.
